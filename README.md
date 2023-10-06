@@ -2,7 +2,7 @@
 
 Music enthusiasts crave intelligently curated playlists. Spotify is the most used music streaming platform. However, there are some essential features that Spotify is missing, and **Spot On** introduces these new features to its users. As a companion app for Spotify, **Spot On** will address the cravings of music enthusiasts by providing these features:
 
-- **Specify playlist durations**: While Spotify allows users to create playlists, there is no option to specify a desired duration for playlists. With Spot On, users can create playlists by manually specifying the desired duration.
+- **Specify playlist durations**: While Spotify allows users to create playlists, there is no option to specify a particular duration for playlists. With Spot On, users can create playlists by manually specifying the desired duration.
 
 - **Generate playlists with text input**: Again, while users can create playlists on Spotify, they have limited control. With Spot On, users can type the kinds of songs they want to listen to, and the app will leverage AI to generate playlists based on the prompt. For instance, users can input "Eminem songs before 2008 and Ed Sheeran songs before 2015," and Spot On will generate playlists meeting those criteria.
 
