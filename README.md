@@ -19,7 +19,7 @@ While Spotify has some of the features mentioned above, having all these feature
 
 References to additional files:
 - [Domain Model](https://github.com/calvin-cs262-organization/monopoly-project/blob/master/design.md)
-- [UI Mockup](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/images/UI%20Mockup.jpg)
+- [UI Mockup](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/images/User%20Interface%20Mockup.jpg)
 
 **Team members:** Aryan Jha, Benny Enriquez, Carl Hiram Yaro, Heyab Daniel Robel
 
