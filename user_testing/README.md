@@ -1,0 +1,1 @@
+This folder contains the test script and test report created for user testing our app, SpotOn.
