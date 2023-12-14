@@ -20,7 +20,7 @@ While Spotify has some of the features mentioned above, having all these feature
 References to additional files:
 - [Domain Model](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/images/drawioClass.png)
 - [UI Mockup](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/images/User%20Interface%20Mockup.jpg)
-- [https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/images/Deployment%20Diagram.png](Deployment Diagram)
+- [Deployment Diagram](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/images/Deployment%20Diagram.png)
 
 **Team members:** Aryan Jha, Benny Enriquez, Carl Hiram Yaro, Heyab Daniel Robel
 
