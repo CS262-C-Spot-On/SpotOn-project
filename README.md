@@ -18,7 +18,7 @@ Besides these highlight features, Spot On will also include additional features 
 While Spotify has some of the features mentioned above, having all these features combined into one app, Spot On, will enhance the music listening experience of music enthusiasts.
 
 References to additional files:
-- [Domain Model](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/images/drawioClass.png)
+- [Domain Model](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/images/Domain%20model.png)
 - [UI Mockup](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/images/User%20Interface%20Mockup.jpg)
 - [Deployment Diagram](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/images/Deployment%20Diagram.png)
 
