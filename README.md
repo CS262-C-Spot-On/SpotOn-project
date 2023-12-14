@@ -25,6 +25,7 @@ References to additional files:
 - [Test Script](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/user_testing/SpotOn_Test_Script.pdf)
 - [Test Report](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/user_testing/Testing%20Report.pdf)
 - [Trello Board](https://trello.com/b/nbxHmzpn/cs262c-spot-on)
+- [Final Presentation](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/presentation/Final%20Presentation.pptx)
 
 **Team members:** Aryan Jha, Benny Enriquez, Carl Hiram Yaro, Heyab Daniel Robel
 
