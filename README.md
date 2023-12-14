@@ -19,6 +19,9 @@ References to additional files:
 - [Domain Model](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/images/Domain%20model.png)
 - [UI Mockup](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/images/User%20Interface%20Mockup.jpg)
 - [Deployment Diagram](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/images/Deployment%20Diagram.png)
+- [Service Repo](https://github.com/CS262-C-Spot-On/SpotOn-service)
+- [Client Repo](https://github.com/CS262-C-Spot-On/SpotOn-client)
+- [Technical Presentation](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/presentation/Technical%20Presentation.pptx)
 
 **Team members:** Aryan Jha, Benny Enriquez, Carl Hiram Yaro, Heyab Daniel Robel
 
