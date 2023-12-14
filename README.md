@@ -22,6 +22,9 @@ References to additional files:
 - [Service Repo](https://github.com/CS262-C-Spot-On/SpotOn-service)
 - [Client Repo](https://github.com/CS262-C-Spot-On/SpotOn-client)
 - [Technical Presentation](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/presentation/Technical%20Presentation.pptx)
+- [Test Script](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/user_testing/SpotOn_Test_Script.pdf)
+- [Test Report](https://github.com/CS262-C-Spot-On/SpotOn-project/blob/main/user_testing/Testing%20Report.pdf)
+- [Trello Board](https://trello.com/b/nbxHmzpn/cs262c-spot-on)
 
 **Team members:** Aryan Jha, Benny Enriquez, Carl Hiram Yaro, Heyab Daniel Robel
 
